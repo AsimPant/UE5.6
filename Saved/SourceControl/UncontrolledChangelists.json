@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Documents/Unreal Projects/Kathamandu_UI_Draft/Content/MainMenu.umap",
+				"D:/Documents/Unreal Projects/Kathamandu_UI_Draft/Content/UI/WB_MainMenu.uasset",
+				"D:/Documents/Unreal Projects/Kathamandu_UI_Draft/Content/ThirdPerson/Lvl_ThirdPerson.umap",
+				"D:/Documents/Unreal Projects/Kathamandu_UI_Draft/Content/UI/WB_OptionsMenu.uasset"
+			]
+		}
+	]
+}
